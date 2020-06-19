@@ -22,7 +22,6 @@ function nameStudent() {
         }
     ]
 }
-console.log(nameStudent())
 export {nameStudent}
 
 

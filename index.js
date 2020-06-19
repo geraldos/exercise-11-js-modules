@@ -1,2 +1,2 @@
-import { nameStudent } from './function'
-nameStudent()
+import { nameStudent } from './function.js'
+console.log(nameStudent())
